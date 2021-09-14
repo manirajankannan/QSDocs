@@ -1,0 +1,28 @@
+site_name: QS Automation
+site_url: https://example.com/
+nav:
+    - Versions: versions.md
+    - Home: index.md
+    - Introduction: introduction.md
+    - Architecture: architecture.md
+    - User Role: userrole.md
+    - Users: users.md
+    - Login: login.md
+    - Home Page: homepage.md
+    - Admin Panel: adminpanel.md
+    - Projects: projects.md
+    - Repositories: repositories.md
+    - Jobs: jobs.md
+    - Packages: packages.md
+theme:
+    name: readthedocs
+    include_homepage_in_sidebar: false
+    highlightjs: true
+    hijs_languages:
+        - python
+# markdown_extensions:
+#     - toc:
+#         permalink: True
+#         separator: "_"
+
+
